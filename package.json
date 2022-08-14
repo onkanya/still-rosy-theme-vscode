@@ -1,8 +1,14 @@
 {
   "name": "still-rosy-theme",
-  "displayName": "still-rosy-theme",
+  "displayName": "Still Rosy Theme",
   "description": "Make your day rosy and shine!",
+  "icon": "images/still-rosy.png",
+  "publisher": "StillRosy",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onkanya/still-rosy-theme-vscode.git"
+  },
   "engines": {
     "vscode": "^1.70.0"
   },
